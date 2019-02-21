@@ -26,6 +26,8 @@ config/master.key
 ## Environment normalization:
 /.bundle
 /vendor/bundle
+/vendor/ruby/
+/vendor/cache/
 
 # these should all be checked in to normalize the environment:
 # Gemfile.lock, .ruby-version, .ruby-gemset
